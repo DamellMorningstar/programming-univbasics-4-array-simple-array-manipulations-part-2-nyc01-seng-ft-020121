@@ -21,5 +21,5 @@
   end
 
   def using_delete_at(array,int)
-    array.delete(3)
+    array.delete_at(int)
   end
